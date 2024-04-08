@@ -11,6 +11,8 @@ Welcome to the SQL Data Analysis Project repository! As a newly hired data engin
 - Inspected the CSV files and sketched an Entity Relationship Diagram (ERD) to visualize the tables' relationships and structure.
 - Designed table schemas for each CSV file, specifying data types, primary keys, foreign keys, and other constraints.
 
+![ERD](EmployeeSQL/ERD_images/ERD_png.png)
+
 ### Data Engineering
 
 - Created SQL tables for each CSV file, ensuring proper handling of primary keys, foreign keys, and table relationships.
